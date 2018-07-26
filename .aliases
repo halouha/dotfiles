@@ -153,3 +153,5 @@ alias path='echo -e ${PATH//:/\\n}'
 alias me='cd ~'
 alias pic='cd ~/Pictures'
 alias bootstrap='source ~/work/projects/dotfiles/bootstrap.sh -f'
+
+alias python=python3
